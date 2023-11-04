@@ -4147,6 +4147,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   character: {fileID: 6031671571738880514}
+  cameraHeight: 0.5
   followSpeed: 3
 --- !u!20 &1027825310
 Camera:
