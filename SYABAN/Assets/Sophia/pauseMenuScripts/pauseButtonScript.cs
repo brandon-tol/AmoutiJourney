@@ -9,5 +9,6 @@ public class pauseButtonScript : MonoBehaviour
     {
         gameObject.SetActive(false);
         pauseMenu.SetActive(true);
+        Time.timeScale = 0f;
     }
 }

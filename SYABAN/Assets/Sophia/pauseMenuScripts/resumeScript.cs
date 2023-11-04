@@ -4,15 +4,12 @@ using UnityEngine;
 
 public class resumeScript : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public GameObject pauseMenu;
+    public GameObject pauseButton;
+    public void resumeGame()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        pauseMenu.SetActive(false);
+        pauseButton.SetActive(true);
+        Time.timeScale = 1f;
     }
 }
