@@ -5,10 +5,10 @@ Modifiers used: FURRY KINGDOM
 
 Members:
 
-Yaroslava Kost: Programming, level design, art
-Sophia Clifton Harting: Programming, enemy script, art
+Yaroslava Kost: Programming, level design, turret enemy, art
+Sophia Clifton-Harting: Programming, UI, character stats (HUDCanvas), dog enemy script, art
 Alina Alenikova: Character script and animation, art
-Aidan Catriel: Level design, programming
+Aidan Catriel: Level design, programming, sound
 Nathan Christopher Wong: Sound, art
 Brandon Toledano: Art
 
