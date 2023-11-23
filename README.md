@@ -1,4 +1,4 @@
-# SYABAN
+# Amouti's Journey
 Concordia Game Jam 2023!<br>
 Amouti's Journey<br>
 Modifiers used: FURRY KINGDOM<br>
